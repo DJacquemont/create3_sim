@@ -73,7 +73,7 @@ public:
       }
     }
 
-    has_behavior_ = true;
+    has_behavior_ = false;
     current_behavior_ = data;
     return true;
   }
